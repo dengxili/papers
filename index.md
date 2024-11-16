@@ -9,6 +9,8 @@ One Stage VPR:
 4. [ECCV 2024][VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition](https://arxiv.org/pdf/2409.19293)
 5. [ICCV 2023][EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition](https://arxiv.org/pdf/2308.10832)
 6. [CVPR 2024][CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition](https://arxiv.org/pdf/2402.19231)
+7. [CVPR 2024][Statewide Visual Geolocalization in the Wild](https://arxiv.org/pdf/2409.16763)
+8. [ICML 2021][S2SD: Simultaneous Similarity-based Self-Distillation for Deep Metric Learning](https://arxiv.org/pdf/2009.08348)
    
 Supplement to the one-stage method：
 1. [WACV 2023][MixVPR: Feature Mixing for Visual Place Recognition](https://arxiv.org/pdf/2303.02190)
@@ -24,6 +26,18 @@ Dimensionality Reduction：
    
 Others:
 1. [ECCV 2024][AddressCLIP: Empowering Vision-Language Models for City-wide Image Address Localization](https://arxiv.org/pdf/2407.08156)
+2. [ECCV 2024][Revisit Anything: Visual Place Recognition via Image Segment Retrieval](https://arxiv.org/pdf/2409.18049)
+3. [UNKNOWN][ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization](https://arxiv.org/pdf/2406.01906)
+4. [UNKNOWN][Optimizing CLIP Models for Image Retrieval with Maintained Joint-Embedding Alignment](https://arxiv.org/pdf/2409.01936)
+5. [ECCV 2024][Open-World Dynamic Prompt and Continual Visual Representation Learning](https://www.arxiv.org/pdf/2409.05312)
+6. [UNKNOWN][Game4Loc: A UAV Geo-Localization Benchmark from Game Data](https://arxiv.org/pdf/2409.16925)
+7. [UNKNOWN][Efficient and Discriminative Image Feature Extraction for Universal Image Retrieval](https://arxiv.org/pdf/2409.13513)
+
+      
+
+      
+
+      
 
 ---
 **更新日期：2024年11月**
