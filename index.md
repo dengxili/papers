@@ -28,7 +28,7 @@
 3. [UNKNOWN][ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization](https://arxiv.org/pdf/2406.01906)
 4. [UNKNOWN][Optimizing CLIP Models for Image Retrieval with Maintained Joint-Embedding Alignment](https://arxiv.org/pdf/2409.01936)
 5. [ECCV 2024][Open-World Dynamic Prompt and Continual Visual Representation Learning](https://www.arxiv.org/pdf/2409.05312)
-6. [UNKNOWN][Game4Loc: A UAV Geo-Localization Benchmark from Game Data](https://arxiv.org/pdf/2409.16925)
+6. [AAAI 2024][Game4Loc: A UAV Geo-Localization Benchmark from Game Data](https://arxiv.org/pdf/2409.16925)
 7. [UNKNOWN][Efficient and Discriminative Image Feature Extraction for Universal Image Retrieval](https://arxiv.org/pdf/2409.13513)
 
       
