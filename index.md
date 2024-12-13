@@ -9,6 +9,7 @@
 6. [CVPR 2024][CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition](https://arxiv.org/pdf/2402.19231)
 7. [CVPR 2024][Statewide Visual Geolocalization in the Wild](https://arxiv.org/pdf/2409.16763)
 8. [ICML 2021][S2SD: Simultaneous Similarity-based Self-Distillation for Deep Metric Learning](https://arxiv.org/pdf/2009.08348)
+9. [ICLR 2025][EFFOVPR: EFFECTIVE FOUNDATION MODEL UTILIZATION FOR VISUAL PLACE RECOGNITION](https://openreview.net/forum?id=NSpe8QgsCB)
    
 **Supplement to the one-stage method：**
 1. [WACV 2023][MixVPR: Feature Mixing for Visual Place Recognition](https://arxiv.org/pdf/2303.02190)
@@ -30,6 +31,13 @@
 5. [ECCV 2024][Open-World Dynamic Prompt and Continual Visual Representation Learning](https://www.arxiv.org/pdf/2409.05312)
 6. [AAAI 2024][Game4Loc: A UAV Geo-Localization Benchmark from Game Data](https://arxiv.org/pdf/2409.16925)
 7. [UNKNOWN][Efficient and Discriminative Image Feature Extraction for Universal Image Retrieval](https://arxiv.org/pdf/2409.13513)
+8. [NeurIPS 2024 ][EMVP: Embracing Visual Foundation Model for Visual Place Recognition with Centroid-Free Probing](https://openreview.net/pdf?id=V6w7keoTqn)
+9. [NeurIPS 2024 ][SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition](https://openreview.net/pdf?id=bZpZMdY1sj)
+   
+ **just change loss funtion:**  
+1.[ICLR 2025][CLASS-RELATIONAL LABEL SMOOTHING FOR LIFELONG VISUAL PLACE RECOGNITION](https://openreview.net/pdf?id=ZS1lCBLljq)
+**一个视觉场景的表征可以看成多个Part的聚合:**  
+1.[TPAMI 2024][Unsupervised Part Discovery via Dual Representation Alignment](https://arxiv.org/abs/2408.08108)
 
       
 
