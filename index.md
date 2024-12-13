@@ -36,6 +36,7 @@
    
  **just change loss funtion:**  
 1.[ICLR 2025][CLASS-RELATIONAL LABEL SMOOTHING FOR LIFELONG VISUAL PLACE RECOGNITION](https://openreview.net/pdf?id=ZS1lCBLljq)
+
 **一个视觉场景的表征可以看成多个Part的聚合:**  
 1.[TPAMI 2024][Unsupervised Part Discovery via Dual Representation Alignment](https://arxiv.org/abs/2408.08108)
 
