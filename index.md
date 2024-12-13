@@ -39,11 +39,20 @@
 **一个视觉场景的表征可以看成多个Part的聚合:**  
 1.[TPAMI 2024][Unsupervised Part Discovery via Dual Representation Alignment](https://arxiv.org/abs/2408.08108)
 
-      
+**在测试时对特征进行矫正/About test time:**  
+1.[ICLR 2025][TEST-TIME ADAPTATION FOR CROSS-MODAL RETRIEVAL WITH QUERY SHIFT](https://openreview.net/pdfid=BmG88rONaU) 2.[NeurIPS 2024][BendVLM: Test-Time Debiasing of Vision-Language Embeddings](https://arxiv.org/pdf/2411.04420) 
+3.[NeurIPS 2024][L-TTA: Lightweight Test-Time Adaptation Using a Versatile Stem Layer](https://openreview.net/pdf/f00f5429bf30e23d67511a8233740cf63a50c6e7.pdf) 
+4.[NeurIPS 2024][BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping](https://arxiv.org/pdf/2410.15430v2) 
+5.[NeurIPS 2024][Frustratingly Easy Test-Time Adaptation of Vision-Language Models](https://arxiv.org/pdf/2405.18330) 
+6.[NeurIPS 2024][Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach](https://arxiv.org/pdf/2408.07511) 
+7.[NeurIPS 2024][Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models](https://arxiv.org/pdf/2410.12790) 
+8.[ICLR 2025][TEST-TIME ENSEMBLE VIA LINEAR MODE CONNECTIVITY: A PATH TO BETTER ADAPTATION](https://openreview.net/pdf?id=4wk2eOKGvh) 
+9.[CVPR 2024][Efficient Test-Time Adaptation of Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Karmanov_Efficient_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2024_paper.pdf) 
+
 
       
 
       
 
 ---
-**更新日期：2024年11月**
+**更新日期：2024年12月13**
