@@ -49,8 +49,16 @@
 6. [NeurIPS 2024][Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach](https://arxiv.org/pdf/2408.07511) 
 7. [NeurIPS 2024][Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models](https://arxiv.org/pdf/2410.12790) 
 8. [ICLR 2025][TEST-TIME ENSEMBLE VIA LINEAR MODE CONNECTIVITY: A PATH TO BETTER ADAPTATION](https://openreview.net/pdf?id=4wk2eOKGvh) 
-9. [CVPR 2024][Efficient Test-Time Adaptation of Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Karmanov_Efficient_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2024_paper.pdf) 
+9. [CVPR 2024][Efficient Test-Time Adaptation of Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Karmanov_Efficient_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2024_paper.pdf)
 
+**细粒度识别：**
+1. [ICCV 2023][PDiscoNet: Semantically consistent part discovery for fine-grained recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/van_der_Klis_PDiscoNet_Semantically_consistent_part_discovery_for_fine-grained_recognition_ICCV_2023_paper.pdf)
+2. [ECCV 2024][PDiscoFormer: Relaxing Part Discovery Constraints with Vision Transformers](https://arxiv.org/abs/2407.04538)
+
+
+**监督对比学习：**
+1. [NeurIPS-2020][Supervised Contrastive Learning](https://proceedings.neurips.cc/paper_files/paper/2020/file/d89a66c7c80a29b1bdbab0f2a1a94af8-Paper.pdf)
+   
 
       
 
