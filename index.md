@@ -42,7 +42,7 @@
 1.[TPAMI 2024][Unsupervised Part Discovery via Dual Representation Alignment](https://arxiv.org/abs/2408.08108)
 
 **在测试时对特征进行矫正/About test time:**  
-1. [ICLR 2025][TEST-TIME ADAPTATION FOR CROSS-MODAL RETRIEVAL WITH QUERY SHIFT](https://openreview.net/pdfid=BmG88rONaU)
+1. [ICLR 2025][TEST-TIME ADAPTATION FOR CROSS-MODAL RETRIEVAL WITH QUERY SHIFT](https://arxiv.org/pdf/2410.15624)
 2. [NeurIPS 2024][BendVLM: Test-Time Debiasing of Vision-Language Embeddings](https://arxiv.org/pdf/2411.04420) 
 3. [NeurIPS 2024][L-TTA: Lightweight Test-Time Adaptation Using a Versatile Stem Layer](https://openreview.net/pdf/f00f5429bf30e23d67511a8233740cf63a50c6e7.pdf) 
 4. [NeurIPS 2024][BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping](https://arxiv.org/pdf/2410.15430v2) 
