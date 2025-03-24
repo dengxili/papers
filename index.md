@@ -1,7 +1,7 @@
 # Here are some papers on  Visual Place Recognition:
 
 **One Stage VPR:**
-1. [CVPR 2024][BoQ: A Place is Worth a Bag of Learnable Queries](https://arxiv.org/pdf/2405.07364)
+1. [CVPR 2024]BoQ: A Place is Worth a Bag of Learnable Queries[paper](https://arxiv.org/pdf/2405.07364)
 2. [ECCV 2024][Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition](https://arxiv.org/pdf/2407.02422)
 3. [CVPR 2024][EarthLoc: Astronaut Photography Localization by Indexing Earth from Space](https://arxiv.org/pdf/2403.06758)
 4. [ECCV 2024][VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition](https://arxiv.org/pdf/2409.19293)
