@@ -1,20 +1,21 @@
 # Here are some papers on  Visual Place Recognition:
 
 **One Stage VPR:**
-1. [CVPR 2024]BoQ: A Place is Worth a Bag of Learnable Queries[[paper]](https://arxiv.org/pdf/2405.07364)[[code]](https://github.com/amaralibey/Bag-of-Queries)
+1. [ICLR 2025]EFFOVPR: EFFECTIVE FOUNDATION MODEL UTILIZATION FOR VISUAL PLACE RECOGNITION[[paper]](https://openreview.net/forum?id=NSpe8QgsCB)
 2. [ECCV 2024]Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition[[paper]](https://arxiv.org/pdf/2407.02422)[[code]](https://github.com/serizba/cliquemining)
 3. [CVPR 2024]EarthLoc: Astronaut Photography Localization by Indexing Earth from Space[[paper]](https://arxiv.org/pdf/2403.06758)[[code]](https://github.com/gmberton/EarthLoc)
 4. [ECCV 2024]VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2409.19293)[[code]](https://github.com/Ahmedest61/VLAD-BuFF/)
-5. [ICCV 2023]EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2308.10832)[[code]](https://github.com/gmberton/EigenPlaces)
-6. [CVPR 2024]CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2402.19231)[[code]](https://github.com/Lu-Feng/CricaVPR)
-7. [ECCV 2024][Statewide Visual Geolocalization in the Wild][[paper]](https://arxiv.org/pdf/2409.16763)[[code]](https://github.com/fferflo/statewide-visual-geolocalization)
-8. [ICML 2021]S2SD: Simultaneous Similarity-based Self-Distillation for Deep Metric Learning[[paper]](https://arxiv.org/pdf/2009.08348)[[code]](https://github.com/MLforHealth/S2SD)
-9. [ICLR 2025]EFFOVPR: EFFECTIVE FOUNDATION MODEL UTILIZATION FOR VISUAL PLACE RECOGNITION[[paper]](https://openreview.net/forum?id=NSpe8QgsCB)
-10. [CVPR 2024]Optimal Transport Aggregation for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2311.15937)[[code]](https://github.com/serizba/salad)
+5. [CVPR 2024]CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2402.19231)[[code]](https://github.com/Lu-Feng/CricaVPR)
+6. [ECCV 2024][Statewide Visual Geolocalization in the Wild][[paper]](https://arxiv.org/pdf/2409.16763)[[code]](https://github.com/fferflo/statewide-visual-geolocalization)
+7. [CVPR 2024]BoQ: A Place is Worth a Bag of Learnable Queries[[paper]](https://arxiv.org/pdf/2405.07364)[[code]](https://github.com/amaralibey/Bag-of-Queries)
+8. [CVPR 2024]Optimal Transport Aggregation for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2311.15937)[[code]](https://github.com/serizba/salad)
+9. [ICCV 2023]EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2308.10832)[[code]](https://github.com/gmberton/EigenPlaces)
+
    
 **Supplement to the one-stage method：**
 1. [WACV 2023]MixVPR: Feature Mixing for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2303.02190)[[code]](https://github.com/amaralibey/MixVPR)
 2. [CVPR 2022]Rethinking Visual Geo-localization for Large-Scale Applications[[paper]](https://arxiv.org/pdf/2204.02287)[[code]](https://github.com/gmberton/CosPlace)
+   
    
 **Two Stage VPR:**
 1. [AAAI 2024]Deep Homography Estimation for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2402.16086)[[code]](https://github.com/Lu-Feng/DHE-VPR)
@@ -22,7 +23,6 @@
    
 **Dimensionality Reduction：**
 1. [ICML 2021]S2SD: Simultaneous Similarity-based Self-Distillation for Deep Metric Learning[[paper]](https://arxiv.org/pdf/2009.08348)[[code]](https://github.com/MLforHealth/S2SD)
-2. [CVPR 2024]CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2402.19231)[[code]](https://github.com/Lu-Feng/CricaVPR)
    
 **Others:**
 1. [ECCV 2024]AddressCLIP: Empowering Vision-Language Models for City-wide Image Address Localization[[paper]](https://arxiv.org/pdf/2407.08156)[[code]](https://github.com/xsx1001/AddressCLIP)
@@ -43,18 +43,18 @@
 
 **在测试时对特征进行矫正/About test time:**  
 1. [ICLR 2025]TEST-TIME ADAPTATION FOR CROSS-MODAL RETRIEVAL WITH QUERY SHIFT[[paper]](https://arxiv.org/pdf/2410.15624)
-2. [NeurIPS 2024]BendVLM: Test-Time Debiasing of Vision-Language Embeddings[[paper]](https://arxiv.org/pdf/2411.04420) [[code]](https://github.com/waltergerych/bend_vlm)
-3. [NeurIPS 2024]L-TTA: Lightweight Test-Time Adaptation Using a Versatile Stem Layer[[paper]](https://openreview.net/pdf?id=G7NZljVOol)[[code]](https://github.com/janus103/L_TTA)
-4. [NeurIPS 2024]BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping[[paper]](https://arxiv.org/pdf/2410.15430v2)[[code]](https://github.com/taolinzhang/BoostAdapter)
-5. [NeurIPS 2024]Frustratingly Easy Test-Time Adaptation of Vision-Language Models[[paper]](https://arxiv.org/pdf/2405.18330)[[code]](https://github.com/FarinaMatteo/zero)
-6. [NeurIPS 2024]Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach[[paper]](https://arxiv.org/pdf/2408.07511)[[code]](https://github.com/yarinbar/poem)
-7. [NeurIPS 2024]Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models[[papr]](https://arxiv.org/pdf/2410.12790)[[code]](https://github.com/zhangce01/DPE-CLIP)
-8. [ICLR 2025]TEST-TIME ENSEMBLE VIA LINEAR MODE CONNECTIVITY: A PATH TO BETTER ADAPTATION[[paper]](https://openreview.net/pdf?id=4wk2eOKGvh) 
+2. [ICLR 2025]TEST-TIME ENSEMBLE VIA LINEAR MODE CONNECTIVITY: A PATH TO BETTER ADAPTATION[[paper]](https://openreview.net/pdfid=4wk2eOKGvh)
+3. [NeurIPS 2024]BendVLM: Test-Time Debiasing of Vision-Language Embeddings[[paper]](https://arxiv.org/pdf/2411.04420) [[code]](https://github.com/waltergerych/bend_vlm)
+4. [NeurIPS 2024]L-TTA: Lightweight Test-Time Adaptation Using a Versatile Stem Layer[[paper]](https://openreview.net/pdf?id=G7NZljVOol)[[code]](https://github.com/janus103/L_TTA)
+5. [NeurIPS 2024]BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping[[paper]](https://arxiv.org/pdf/2410.15430v2)[[code]](https://github.com/taolinzhang/BoostAdapter)
+6. [NeurIPS 2024]Frustratingly Easy Test-Time Adaptation of Vision-Language Models[[paper]](https://arxiv.org/pdf/2405.18330)[[code]](https://github.com/FarinaMatteo/zero)
+7. [NeurIPS 2024]Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach[[paper]](https://arxiv.org/pdf/2408.07511)[[code]](https://github.com/yarinbar/poem)
+8. [NeurIPS 2024]Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models[[papr]](https://arxiv.org/pdf/2410.12790)[[code]](https://github.com/zhangce01/DPE-CLIP)
 9. [CVPR 2024]Efficient Test-Time Adaptation of Vision-Language Models[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Karmanov_Efficient_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2024_paper.pdf)[[code]](https://kdiaaa.github.io/tda/)
 
 **细粒度识别：**
-1. [ICCV 2023]PDiscoNet: Semantically consistent part discovery for fine-grained recognition[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/van_der_Klis_PDiscoNet_Semantically_consistent_part_discovery_for_fine-grained_recognition_ICCV_2023_paper.pdf)[[code]](https://github.com/robertdvdk/part_detection)
-2. [ECCV 2024]PDiscoFormer: Relaxing Part Discovery Constraints with Vision Transformers[[paper]](https://arxiv.org/pdf/2407.04538)[[code]](https://github.com/ananthu-aniraj/pdiscoformer)
+1. [ECCV 2024]PDiscoFormer: Relaxing Part Discovery Constraints with Vision Transformers[[paper]](https://arxiv.org/pdf/2407.04538)[[code]](https://github.com/ananthu-aniraj/pdiscoformer)
+2. [ICCV 2023]PDiscoNet: Semantically consistent part discovery for fine-grained recognition[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/van_der_Klis_PDiscoNet_Semantically_consistent_part_discovery_for_fine-grained_recognition_ICCV_2023_paper.pdf)[[code]](https://github.com/robertdvdk/part_detection)
 
 
 **监督对比学习：**
