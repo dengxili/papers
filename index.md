@@ -47,7 +47,7 @@
 3. [NeurIPS 2024]L-TTA: Lightweight Test-Time Adaptation Using a Versatile Stem Layer[[paper]](https://openreview.net/pdf?id=G7NZljVOol)[[code]](https://github.com/janus103/L_TTA)
 4. [NeurIPS 2024]BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping[[paper]](https://arxiv.org/pdf/2410.15430v2)[[code]](https://github.com/taolinzhang/BoostAdapter)
 5. [NeurIPS 2024]Frustratingly Easy Test-Time Adaptation of Vision-Language Models[[paper]](https://arxiv.org/pdf/2405.18330)[[code]](https://github.com/FarinaMatteo/zero)
-6. [NeurIPS 2024]Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach[[paper]](https://arxiv.org/pdf/2408.07511)[[code]] (https://github.com/yarinbar/poem)
+6. [NeurIPS 2024]Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach[[paper]](https://arxiv.org/pdf/2408.07511)[[code]](https://github.com/yarinbar/poem)
 7. [NeurIPS 2024]Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models[[papr]](https://arxiv.org/pdf/2410.12790)[[code]](https://github.com/zhangce01/DPE-CLIP)
 8. [ICLR 2025]TEST-TIME ENSEMBLE VIA LINEAR MODE CONNECTIVITY: A PATH TO BETTER ADAPTATION[[paper]](https://openreview.net/pdf?id=4wk2eOKGvh) 
 9. [CVPR 2024]Efficient Test-Time Adaptation of Vision-Language Models[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Karmanov_Efficient_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2024_paper.pdf)[[code]](https://kdiaaa.github.io/tda/)
