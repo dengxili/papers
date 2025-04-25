@@ -59,6 +59,11 @@
 
 **监督对比学习：**
 1. [NeurIPS-2020]Supervised Contrastive Learning[[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/d89a66c7c80a29b1bdbab0f2a1a94af8-Paper.pdf)[[code]](https://t.ly/supcon)
+
+**图像配准：**
+1. [CVPR-2024]Correspondence-Free Non-Rigid Point Set Registration Using
+Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[code]](https://github.com/zikai1/CVPR24_PointSetReg)
+
    
 
       
