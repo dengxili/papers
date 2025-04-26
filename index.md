@@ -65,6 +65,9 @@
 1. [CVPR-2024]Correspondence-Free Non-Rigid Point Set Registration Using
 Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[code]](https://github.com/zikai1/CVPR24_PointSetReg)
 
+**图像匹配：**
+1. [CVPR 2024]OmniGlue: Generalizable Feature Matching with Foundation Model Guidance[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://hwjiang1510.github.io/OmniGlue/)
+
    
 
       
@@ -72,4 +75,4 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
       
 
 ---
-**更新日期：2025年3月24**
+**更新日期：2025年4月26**
