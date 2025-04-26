@@ -67,6 +67,9 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 
 **图像匹配：**
 1. [CVPR 2024]OmniGlue: Generalizable Feature Matching with Foundation Model Guidance[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://hwjiang1510.github.io/OmniGlue/)
+2. [ICCV 2023]LightGlue: Local Feature Matching at Light Speed[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://github.com/cvg/LightGlue)
+3. [CVPR 2020]SuperGlue: Learning Feature Matching with Graph Neural Networks
+[[paper]](https://arxiv.org/pdf/1911.11763v2)[[code]](https://github.com/magicleap/SuperGluePretrainedNetwork)
 
    
 
