@@ -81,6 +81,7 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 [[paper]](https://arxiv.org/abs/2407.02392)[[code]](https://github.com/CircleRadon/TokenPacker)
 
 **Preprint：**
+
 1.SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition[[paper]](https://arxiv.org/pdf/2502.16601)[[code]](https://github.com/Lu-Feng/SelaVPR)
 
    
