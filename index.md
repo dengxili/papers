@@ -66,10 +66,22 @@
 Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[code]](https://github.com/zikai1/CVPR24_PointSetReg)
 
 **图像匹配：**
-1. [CVPR 2024]OmniGlue: Generalizable Feature Matching with Foundation Model Guidance[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://hwjiang1510.github.io/OmniGlue/)
-2. [ICCV 2023]LightGlue: Local Feature Matching at Light Speed[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://github.com/cvg/LightGlue)
-3. [CVPR 2020]SuperGlue: Learning Feature Matching with Graph Neural Networks
+1. [CVPR 2020]SuperGlue: Learning Feature Matching with Graph Neural Networks
 [[paper]](https://arxiv.org/pdf/1911.11763v2)[[code]](https://github.com/magicleap/SuperGluePretrainedNetwork)
+2. [ICCV 2023]LightGlue: Local Feature Matching at Light Speed[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://github.com/cvg/LightGlue)
+3. [CVPR 2024]OmniGlue: Generalizable Feature Matching with Foundation Model Guidance[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://hwjiang1510.github.io/OmniGlue/)
+4. [CVPR 2024]XFeat: Accelerated Features for Lightweight Image Matching[[paper]](https://arxiv.org/pdf/2404.19174)[[code]](https://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24/)
+
+**房间重识别：**
+1. [CVPR 2025]AirRoom: Objects Matter in Room Reidentification
+[[paper]](https://www.arxiv.org/pdf/2503.01130)[[code]](https://sairlab.org/airroom/)
+
+**视觉token压缩：**
+1. [CVPR 2025]TokenPacker: Efficient Visual Projector for Multimodal LLM
+[[paper]](https://arxiv.org/abs/2407.02392)[[code]](https://github.com/CircleRadon/TokenPacker)
+
+**Preprint：**
+1.SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition[[paper]](https://arxiv.org/pdf/2502.16601)[[code]](https://github.com/Lu-Feng/SelaVPR)
 
    
 
@@ -78,4 +90,4 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
       
 
 ---
-**更新日期：2025年4月26**
+**更新日期：2025年4月29**
