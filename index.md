@@ -87,11 +87,11 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 
 **目标定位**
 
-1.Spatial-Aware Token for Weakly Supervised Object Localization[[paper]](https://arxiv.org/pdf/2303.10438)[[code]](https://github.com/wpy1999/SAT)
+1.[ICCV 2023]Spatial-Aware Token for Weakly Supervised Object Localization[[paper]](https://arxiv.org/pdf/2303.10438)[[code]](https://github.com/wpy1999/SAT)
 
 **GCD**
 
-1.Spatial-Aware Token for Weakly Supervised Object Localization[[paper]](https://arxiv.org/pdf/2403.09974)[[code]](https://github.com/enguangW/GET)
+1.[CVPR 2025]GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery[[paper]](https://arxiv.org/pdf/2403.09974)[[code]](https://github.com/enguangW/GET)
 
    
 
