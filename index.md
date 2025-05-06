@@ -86,10 +86,11 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 1.SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition[[paper]](https://arxiv.org/pdf/2502.16601)[[code]](https://github.com/Lu-Feng/SelaVPR)
 
 **目标定位**
+
 1.Spatial-Aware Token for Weakly Supervised Object Localization[[paper]](https://arxiv.org/pdf/2303.10438)[[code]](https://github.com/wpy1999/SAT)
 
 **GCD**
-1.**目标定位**
+
 1.Spatial-Aware Token for Weakly Supervised Object Localization[[paper]](https://arxiv.org/pdf/2403.09974)[[code]](https://github.com/enguangW/GET)
 
    
