@@ -24,6 +24,7 @@
    
 **Dimensionality Reduction：**
 1. [ICML 2021]S2SD: Simultaneous Similarity-based Self-Distillation for Deep Metric Learning[[paper]](https://arxiv.org/pdf/2009.08348)[[code]](https://github.com/MLforHealth/S2SD)
+2. [CVPR 2024]VkD : Improving Knowledge Distillation using Orthogonal Projections[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Miles_VkD_Improving_Knowledge_Distillation_using_Orthogonal_Projections_CVPR_2024_paper.pdf)
    
 **Others:**
 1. [ECCV 2024]AddressCLIP: Empowering Vision-Language Models for City-wide Image Address Localization[[paper]](https://arxiv.org/pdf/2407.08156)[[code]](https://github.com/xsx1001/AddressCLIP)
@@ -84,6 +85,13 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 
 1.SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition[[paper]](https://arxiv.org/pdf/2502.16601)[[code]](https://github.com/Lu-Feng/SelaVPR)
 
+**目标定位**
+1.Spatial-Aware Token for Weakly Supervised Object Localization[[paper]](https://arxiv.org/pdf/2303.10438)[[code]](https://github.com/wpy1999/SAT)
+
+**GCD**
+1.**目标定位**
+1.Spatial-Aware Token for Weakly Supervised Object Localization[[paper]](https://arxiv.org/pdf/2403.09974)[[code]](https://github.com/enguangW/GET)
+
    
 
       
@@ -91,4 +99,4 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
       
 
 ---
-**更新日期：2025年4月29**
+**更新日期：2025年5月6**
