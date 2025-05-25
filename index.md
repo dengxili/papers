@@ -97,6 +97,10 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 
 1.[CVPR 2025]GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery[[paper]](https://arxiv.org/pdf/2403.09974)[[code]](https://github.com/enguangW/GET)
 
+**无人机benchmark**
+1.[CVPR 2025]Exploring the best way for UAV visual localization under Low-altitude
+Multi-view Observation Condition: a Benchmark[[paper]](https://arxiv.org/pdf/2503.10692)[[code]](https://github.com/UAV-AVL/Benchmark)
+
    
 
       
