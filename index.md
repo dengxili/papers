@@ -69,9 +69,13 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 **图像匹配：**
 1. [CVPR 2020]SuperGlue: Learning Feature Matching with Graph Neural Networks
 [[paper]](https://arxiv.org/pdf/1911.11763v2)[[code]](https://github.com/magicleap/SuperGluePretrainedNetwork)
-2. [ICCV 2023]LightGlue: Local Feature Matching at Light Speed[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://github.com/cvg/LightGlue)
-3. [CVPR 2024]OmniGlue: Generalizable Feature Matching with Foundation Model Guidance[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://hwjiang1510.github.io/OmniGlue/)
-4. [CVPR 2024]XFeat: Accelerated Features for Lightweight Image Matching[[paper]](https://arxiv.org/pdf/2404.19174)[[code]](https://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24/)
+2. [CVPR 2021]LoFTR: Detector-Free Local Feature Matching with Transformers[[paper]](https://arxiv.org/pdf/2104.00680)[[code]](https://zju3dv.github.io/loftr/)
+3. [ECCV 2022]ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer[[paper]](https://arxiv.org/pdf/2208.14201)
+4. [CVPR 2023]SFD2: Semantic-guided Feature Detection and Description[[paper]](https://arxiv.org/pdf/2304.14845)[[code]](https://github.com/feixue94/sfd2)
+5. [ICCV 2023]LightGlue: Local Feature Matching at Light Speed[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://github.com/cvg/LightGlue)
+6. [CVPR 2024]OmniGlue: Generalizable Feature Matching with Foundation Model Guidance[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://hwjiang1510.github.io/OmniGlue/)
+7. [CVPR 2024]XFeat: Accelerated Features for Lightweight Image Matching[[paper]](https://arxiv.org/pdf/2404.19174)[[code]](https://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24/)
+
 
 **房间重识别：**
 1. [CVPR 2025]AirRoom: Objects Matter in Room Reidentification
