@@ -102,6 +102,9 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 1.[CVPR 2025]Exploring the best way for UAV visual localization under Low-altitude
 Multi-view Observation Condition: a Benchmark[[paper]](https://arxiv.org/pdf/2503.10692)[[code]](https://github.com/UAV-AVL/Benchmark)
 
+**以后可能有用**
+1.[CVPR 2025]Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification[[paper]](https://arxiv.org/pdf/2503.16873)[[code]](https://github.com/k0u-id/CCD)
+
    
 
       
