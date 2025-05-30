@@ -76,6 +76,16 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 6. [CVPR 2024]OmniGlue: Generalizable Feature Matching with Foundation Model Guidance[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://hwjiang1510.github.io/OmniGlue/)
 7. [CVPR 2024]XFeat: Accelerated Features for Lightweight Image Matching[[paper]](https://arxiv.org/pdf/2404.19174)[[code]](https://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24/)
 
+**多标签图像分类：**
+1. [Preprint]SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models[[paper]](https://arxiv.org/pdf/2502.16911?)
+2. [CVPR 2025]Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification[[paper]](https://arxiv.org/pdf/2503.16873)[[code]](https://github.com/k0u-id/CCD)
+
+**news：**
+1. [CVPR 2024]Progressive Semantic-Guided Vision Transformer for Zero-Shot Learning[[paper]](https://arxiv.org/pdf/2404.07713)[[code]](https://github.com/shiming-chen/ZSLViT)
+
+**ReID：**
+1. [CVPR 2023]PartMix: Regularization Strategy to Learn Part Discovery for Visible-Infrared Person Re-identification[[paper]](https://arxiv.org/pdf/2304.01537)
+
 
 **房间重识别：**
 1. [CVPR 2025]AirRoom: Objects Matter in Room Reidentification
