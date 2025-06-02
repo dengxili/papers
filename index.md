@@ -113,7 +113,9 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 Multi-view Observation Condition: a Benchmark[[paper]](https://arxiv.org/pdf/2503.10692)[[code]](https://github.com/UAV-AVL/Benchmark)
 
 **以后可能有用**
+
 1.[CVPR 2025]Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification[[paper]](https://arxiv.org/pdf/2503.16873)[[code]](https://github.com/k0u-id/CCD)
+1.[neurips 2024]Boosting Vision-Language Models with Transduction[[paper]](https://arxiv.org/pdf/2406.01837)[[code]](https://github.com/MaxZanella/transduction-for-vlms)
 
    
 
