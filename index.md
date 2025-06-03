@@ -79,6 +79,10 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 **多标签图像分类：**
 1. [Preprint]SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models[[paper]](https://arxiv.org/pdf/2502.16911?)
 2. [CVPR 2025]Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification[[paper]](https://arxiv.org/pdf/2503.16873)[[code]](https://github.com/k0u-id/CCD)
+3. [CVPR 2025]Recover and Match: Open-Vocabulary Multi-Label Recognition through
+Knowledge-Constrained Optimal Transport[[paper]](https://arxiv.org/pdf/2503.15337)[[code]](https://github.com/EricTan7/RAM)
+4. [CVPR 2025]Correlative and Discriminative Label Grouping for Multi-Label
+Visual Prompt Tuning[[paper]](https://arxiv.org/pdf/2504.09990)
 
 **news：**
 1. [CVPR 2024]Progressive Semantic-Guided Vision Transformer for Zero-Shot Learning[[paper]](https://arxiv.org/pdf/2404.07713)[[code]](https://github.com/shiming-chen/ZSLViT)
