@@ -10,8 +10,8 @@
 7. [CVPR 2024]BoQ: A Place is Worth a Bag of Learnable Queries[[paper]](https://arxiv.org/pdf/2405.07364)[[code]](https://github.com/amaralibey/Bag-of-Queries)
 8. [CVPR 2024]Optimal Transport Aggregation for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2311.15937)[[code]](https://github.com/serizba/salad)
 9. [ICCV 2023]EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2308.10832)[[code]](https://github.com/gmberton/EigenPlaces)
-10.[cvpr 2023]Data-efficient Large Scale Place Recognition with Graded Similarity Supervision[[paper]](https://arxiv.org/pdf/2303.11739)
-11.[preprint]HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular
+10. [cvpr 2023]Data-efficient Large Scale Place Recognition with Graded Similarity Supervision[[paper]](https://arxiv.org/pdf/2303.11739)
+11. [preprint]HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular
 Visual Place Recognition[[paper]](https://arxiv.org/pdf/2506.04764)[[code]](https://github.com/suhan-woo/HypeVPR)
 
    
