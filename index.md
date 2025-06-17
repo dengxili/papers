@@ -77,17 +77,22 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 7. [CVPR 2024]XFeat: Accelerated Features for Lightweight Image Matching[[paper]](https://arxiv.org/pdf/2404.19174)[[code]](https://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24/)
 
 **多标签图像分类：**
-1. [Preprint]SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models[[paper]](https://arxiv.org/pdf/2502.16911?)[[code]](https://github.com/kjmillerCURIS/SPARC)
-2. [ICCV 2023]PatchCT: Aligning Patch Set and Label Set with Conditional Transport
+1. [ICCV 2023]PatchCT: Aligning Patch Set and Label Set with Conditional Transport
 for Multi-Label Image Classification[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PatchCT_Aligning_Patch_Set_and_Label_Set_with_Conditional_Transport_ICCV_2023_paper.pdf)
-3. [CVPR 2025]Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification[[paper]](https://arxiv.org/pdf/2503.16873)[[code]](https://github.com/k0u-id/CCD)
-4. [CVPR 2025]Recover and Match: Open-Vocabulary Multi-Label Recognition through
+2. [ICCV 2023]Cdul: Clip-driven unsupervised learning for multi-label image classification[[paper]](https://arxiv.org/pdf/2307.16634)
+3. [ICML 2024]Language-driven Cross-modal Classifier for
+Zero-shot Multi-label Image Recognition[[paper]](https://openreview.net/pdf?id=sHswzNWUW2)[[code]](https://github.com/yic20/CoMC)
+4. [CVPR 2025]SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models[[paper]](https://arxiv.org/pdf/2502.16911?)[[code]](https://github.com/kjmillerCURIS/SPARC)
+5. [CVPR 2025]Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification[[paper]](https://arxiv.org/pdf/2503.16873)[[code]](https://github.com/k0u-id/CCD)
+6. [CVPR 2025]Recover and Match: Open-Vocabulary Multi-Label Recognition through
 Knowledge-Constrained Optimal Transport[[paper]](https://arxiv.org/pdf/2503.15337)[[code]](https://github.com/EricTan7/RAM)
-5. [CVPR 2025]Correlative and Discriminative Label Grouping for Multi-Label
+7. [CVPR 2025]Correlative and Discriminative Label Grouping for Multi-Label
 Visual Prompt Tuning[[paper]](https://arxiv.org/pdf/2504.09990)
-6. [CVPR 2025]Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Multi-Modal_Aerial-Ground_Cross-View_Place_Recognition_with_Neural_ODEs_CVPR_2025_paper.pdf)
-7. [CVPR 2025]Recover and Match: Open-Vocabulary Multi-Label Recognition through
+8. [CVPR 2025]Recover and Match: Open-Vocabulary Multi-Label Recognition through
 Knowledge-Constrained Optimal Transport[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_Recover_and_Match_Open-Vocabulary_Multi-Label_Recognition_through_Knowledge-Constrained_Optimal_Transport_CVPR_2025_paper.pdf)[[code]](https://github.com/EricTan7/RAM)
+
+
+
 
 
 **news：**
@@ -121,6 +126,7 @@ Knowledge-Constrained Optimal Transport[[paper]](https://openaccess.thecvf.com/c
 
 1.[CVPR 2025]Exploring the best way for UAV visual localization under Low-altitude
 Multi-view Observation Condition: a Benchmark[[paper]](https://arxiv.org/pdf/2503.10692)[[code]](https://github.com/UAV-AVL/Benchmark)
+2.[CVPR 2025]Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Multi-Modal_Aerial-Ground_Cross-View_Place_Recognition_with_Neural_ODEs_CVPR_2025_paper.pdf)
 
 **以后可能有用**
 
