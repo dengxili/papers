@@ -127,6 +127,7 @@ Knowledge-Constrained Optimal Transport[[paper]](https://openaccess.thecvf.com/c
 
 1.[CVPR 2025]Exploring the best way for UAV visual localization under Low-altitude
 Multi-view Observation Condition: a Benchmark[[paper]](https://arxiv.org/pdf/2503.10692)[[code]](https://github.com/UAV-AVL/Benchmark)
+
 2.[CVPR 2025]Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Multi-Modal_Aerial-Ground_Cross-View_Place_Recognition_with_Neural_ODEs_CVPR_2025_paper.pdf)
 
 **以后可能有用**
