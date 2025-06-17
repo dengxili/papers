@@ -82,13 +82,14 @@ for Multi-Label Image Classification[[paper]](https://openaccess.thecvf.com/cont
 2. [ICCV 2023]Cdul: Clip-driven unsupervised learning for multi-label image classification[[paper]](https://arxiv.org/pdf/2307.16634)
 3. [ICML 2024]Language-driven Cross-modal Classifier for
 Zero-shot Multi-label Image Recognition[[paper]](https://openreview.net/pdf?id=sHswzNWUW2)[[code]](https://github.com/yic20/CoMC)
-4. [CVPR 2025]SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models[[paper]](https://arxiv.org/pdf/2502.16911?)[[code]](https://github.com/kjmillerCURIS/SPARC)
-5. [CVPR 2025]Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification[[paper]](https://arxiv.org/pdf/2503.16873)[[code]](https://github.com/k0u-id/CCD)
-6. [CVPR 2025]Recover and Match: Open-Vocabulary Multi-Label Recognition through
+4. [AAAI 2024]TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training[[paper]](https://arxiv.org/pdf/2312.12828)[[code]](https://github.com/linyq2117/TagCLIP)
+5. [CVPR 2025]SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models[[paper]](https://arxiv.org/pdf/2502.16911?)[[code]](https://github.com/kjmillerCURIS/SPARC)
+6. [CVPR 2025]Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification[[paper]](https://arxiv.org/pdf/2503.16873)[[code]](https://github.com/k0u-id/CCD)
+7. [CVPR 2025]Recover and Match: Open-Vocabulary Multi-Label Recognition through
 Knowledge-Constrained Optimal Transport[[paper]](https://arxiv.org/pdf/2503.15337)[[code]](https://github.com/EricTan7/RAM)
-7. [CVPR 2025]Correlative and Discriminative Label Grouping for Multi-Label
+8. [CVPR 2025]Correlative and Discriminative Label Grouping for Multi-Label
 Visual Prompt Tuning[[paper]](https://arxiv.org/pdf/2504.09990)
-8. [CVPR 2025]Recover and Match: Open-Vocabulary Multi-Label Recognition through
+9. [CVPR 2025]Recover and Match: Open-Vocabulary Multi-Label Recognition through
 Knowledge-Constrained Optimal Transport[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_Recover_and_Match_Open-Vocabulary_Multi-Label_Recognition_through_Knowledge-Constrained_Optimal_Transport_CVPR_2025_paper.pdf)[[code]](https://github.com/EricTan7/RAM)
 
 
