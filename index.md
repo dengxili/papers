@@ -91,12 +91,6 @@ Zero-shot Multi-label Image Recognition[[paper]](https://openreview.net/pdf?id=s
 Knowledge-Constrained Optimal Transport[[paper]](https://arxiv.org/pdf/2503.15337)[[code]](https://github.com/EricTan7/RAM)
 8. [CVPR 2025]Correlative and Discriminative Label Grouping for Multi-Label
 Visual Prompt Tuning[[paper]](https://arxiv.org/pdf/2504.09990)
-9. [CVPR 2025]Recover and Match: Open-Vocabulary Multi-Label Recognition through
-Knowledge-Constrained Optimal Transport[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_Recover_and_Match_Open-Vocabulary_Multi-Label_Recognition_through_Knowledge-Constrained_Optimal_Transport_CVPR_2025_paper.pdf)[[code]](https://github.com/EricTan7/RAM)
-
-
-
-
 
 **news：**
 1. [CVPR 2024]Progressive Semantic-Guided Vision Transformer for Zero-Shot Learning[[paper]](https://arxiv.org/pdf/2404.07713)[[code]](https://github.com/shiming-chen/ZSLViT)
