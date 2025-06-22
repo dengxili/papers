@@ -12,6 +12,11 @@ Zero-shot Multi-label Image Recognition[[paper]](https://openreview.net/pdf?id=s
 Knowledge-Constrained Optimal Transport[[paper]](https://arxiv.org/pdf/2503.15337)[[code]](https://github.com/EricTan7/RAM)
 8. [CVPR 2025]Correlative and Discriminative Label Grouping for Multi-Label
 Visual Prompt Tuning[[paper]](https://arxiv.org/pdf/2504.09990)
+9. [CVPR 2025]From Local Details to Global Context:Advancing Vision-Language Models with Attention-Based Selection[[paper]](https://arxiv.org/pdf/2505.13233?)[[code]](https://github.com/BIT-DA/ABS)
+
+**转导学习**
+
+1.[neurips 2024]Boosting Vision-Language Models with Transduction[[paper]](https://arxiv.org/pdf/2406.01837)[[code]](https://github.com/MaxZanella/transduction-for-vlms)
 
 
 **One Stage VPR:**
@@ -127,8 +132,6 @@ Multi-view Observation Condition: a Benchmark[[paper]](https://arxiv.org/pdf/250
 
 2.[CVPR 2025]Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Multi-Modal_Aerial-Ground_Cross-View_Place_Recognition_with_Neural_ODEs_CVPR_2025_paper.pdf)
 
-**转导学习**
-1.[neurips 2024]Boosting Vision-Language Models with Transduction[[paper]](https://arxiv.org/pdf/2406.01837)[[code]](https://github.com/MaxZanella/transduction-for-vlms)
 
    
 
