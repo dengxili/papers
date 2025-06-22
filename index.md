@@ -12,7 +12,7 @@ Zero-shot Multi-label Image Recognition[[paper]](https://openreview.net/pdf?id=s
 Knowledge-Constrained Optimal Transport[[paper]](https://arxiv.org/pdf/2503.15337)[[code]](https://github.com/EricTan7/RAM)
 8. [CVPR 2025]Correlative and Discriminative Label Grouping for Multi-Label
 Visual Prompt Tuning[[paper]](https://arxiv.org/pdf/2504.09990)
-9. [CVPR 2025]From Local Details to Global Context:Advancing Vision-Language Models with Attention-Based Selection[[paper]](https://arxiv.org/pdf/2505.13233?)[[code]](https://github.com/BIT-DA/ABS)
+9. [ICML 2025]From Local Details to Global Context:Advancing Vision-Language Models with Attention-Based Selection[[paper]](https://arxiv.org/pdf/2505.13233?)[[code]](https://github.com/BIT-DA/ABS)
 
 **转导学习**
 
