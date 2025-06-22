@@ -1,4 +1,18 @@
 # Here are some papers on  Visual Place Recognition:
+**多标签图像分类：**
+1. [ICCV 2023]PatchCT: Aligning Patch Set and Label Set with Conditional Transport
+for Multi-Label Image Classification[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PatchCT_Aligning_Patch_Set_and_Label_Set_with_Conditional_Transport_ICCV_2023_paper.pdf)
+2. [ICCV 2023]Cdul: Clip-driven unsupervised learning for multi-label image classification[[paper]](https://arxiv.org/pdf/2307.16634)
+3. [ICML 2024]Language-driven Cross-modal Classifier for
+Zero-shot Multi-label Image Recognition[[paper]](https://openreview.net/pdf?id=sHswzNWUW2)[[code]](https://github.com/yic20/CoMC)
+4. [AAAI 2024]TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training[[paper]](https://arxiv.org/pdf/2312.12828)[[code]](https://github.com/linyq2117/TagCLIP)
+5. [CVPR 2025]SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models[[paper]](https://arxiv.org/pdf/2502.16911?)[[code]](https://github.com/kjmillerCURIS/SPARC)
+6. [CVPR 2025]Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification[[paper]](https://arxiv.org/pdf/2503.16873)[[code]](https://github.com/k0u-id/CCD)
+7. [CVPR 2025]Recover and Match: Open-Vocabulary Multi-Label Recognition through
+Knowledge-Constrained Optimal Transport[[paper]](https://arxiv.org/pdf/2503.15337)[[code]](https://github.com/EricTan7/RAM)
+8. [CVPR 2025]Correlative and Discriminative Label Grouping for Multi-Label
+Visual Prompt Tuning[[paper]](https://arxiv.org/pdf/2504.09990)
+
 
 **One Stage VPR:**
 1. [ICLR 2025]EFFOVPR: EFFECTIVE FOUNDATION MODEL UTILIZATION FOR VISUAL PLACE RECOGNITION[[paper]](https://openreview.net/forum?id=NSpe8QgsCB)
@@ -78,19 +92,6 @@ Unsupervised Clustering Analysis[[paper]](https://arxiv.org/pdf/2406.18817)[[cod
 6. [CVPR 2024]OmniGlue: Generalizable Feature Matching with Foundation Model Guidance[[paper]](https://arxiv.org/pdf/2405.12979)[[code]](https://hwjiang1510.github.io/OmniGlue/)
 7. [CVPR 2024]XFeat: Accelerated Features for Lightweight Image Matching[[paper]](https://arxiv.org/pdf/2404.19174)[[code]](https://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24/)
 
-**多标签图像分类：**
-1. [ICCV 2023]PatchCT: Aligning Patch Set and Label Set with Conditional Transport
-for Multi-Label Image Classification[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PatchCT_Aligning_Patch_Set_and_Label_Set_with_Conditional_Transport_ICCV_2023_paper.pdf)
-2. [ICCV 2023]Cdul: Clip-driven unsupervised learning for multi-label image classification[[paper]](https://arxiv.org/pdf/2307.16634)
-3. [ICML 2024]Language-driven Cross-modal Classifier for
-Zero-shot Multi-label Image Recognition[[paper]](https://openreview.net/pdf?id=sHswzNWUW2)[[code]](https://github.com/yic20/CoMC)
-4. [AAAI 2024]TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training[[paper]](https://arxiv.org/pdf/2312.12828)[[code]](https://github.com/linyq2117/TagCLIP)
-5. [CVPR 2025]SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models[[paper]](https://arxiv.org/pdf/2502.16911?)[[code]](https://github.com/kjmillerCURIS/SPARC)
-6. [CVPR 2025]Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification[[paper]](https://arxiv.org/pdf/2503.16873)[[code]](https://github.com/k0u-id/CCD)
-7. [CVPR 2025]Recover and Match: Open-Vocabulary Multi-Label Recognition through
-Knowledge-Constrained Optimal Transport[[paper]](https://arxiv.org/pdf/2503.15337)[[code]](https://github.com/EricTan7/RAM)
-8. [CVPR 2025]Correlative and Discriminative Label Grouping for Multi-Label
-Visual Prompt Tuning[[paper]](https://arxiv.org/pdf/2504.09990)
 
 **news：**
 1. [CVPR 2024]Progressive Semantic-Guided Vision Transformer for Zero-Shot Learning[[paper]](https://arxiv.org/pdf/2404.07713)[[code]](https://github.com/shiming-chen/ZSLViT)
@@ -126,11 +127,8 @@ Multi-view Observation Condition: a Benchmark[[paper]](https://arxiv.org/pdf/250
 
 2.[CVPR 2025]Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Multi-Modal_Aerial-Ground_Cross-View_Place_Recognition_with_Neural_ODEs_CVPR_2025_paper.pdf)
 
-**以后可能有用**
-
-1.[CVPR 2025]Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification[[paper]](https://arxiv.org/pdf/2503.16873)[[code]](https://github.com/k0u-id/CCD)
-
-2.[neurips 2024]Boosting Vision-Language Models with Transduction[[paper]](https://arxiv.org/pdf/2406.01837)[[code]](https://github.com/MaxZanella/transduction-for-vlms)
+**转导学习**
+1.[neurips 2024]Boosting Vision-Language Models with Transduction[[paper]](https://arxiv.org/pdf/2406.01837)[[code]](https://github.com/MaxZanella/transduction-for-vlms)
 
    
 
