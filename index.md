@@ -2,7 +2,7 @@
 **多标签图像分类：**
 1. [ICCV 2023]PatchCT: Aligning Patch Set and Label Set with Conditional Transport
 for Multi-Label Image Classification[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PatchCT_Aligning_Patch_Set_and_Label_Set_with_Conditional_Transport_ICCV_2023_paper.pdf)
-2. [ICCV 2023]Cdul: Clip-driven unsupervised learning for multi-label image classification[[paper]](https://arxiv.org/pdf/2307.16634)
+2. [ICCV 2023]Cdul: Clip-driven unsupervised learning for multi-label image classification[[paper]](https://arxiv.org/pdf/2307.16634)[[code]]https://github.com/cs-mshah/CDUL
 3. [ICML 2024]Language-driven Cross-modal Classifier for
 Zero-shot Multi-label Image Recognition[[paper]](https://openreview.net/pdf?id=sHswzNWUW2)[[code]](https://github.com/yic20/CoMC)
 4. [AAAI 2024]TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training[[paper]](https://arxiv.org/pdf/2312.12828)[[code]](https://github.com/linyq2117/TagCLIP)
