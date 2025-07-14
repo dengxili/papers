@@ -13,6 +13,9 @@ Knowledge-Constrained Optimal Transport[[paper]](https://arxiv.org/pdf/2503.1533
 8. [CVPR 2025]Correlative and Discriminative Label Grouping for Multi-Label
 Visual Prompt Tuning[[paper]](https://arxiv.org/pdf/2504.09990)
 9. [ICML 2025]From Local Details to Global Context:Advancing Vision-Language Models with Attention-Based Selection[[paper]](https://arxiv.org/pdf/2505.13233?)[[code]](https://github.com/BIT-DA/ABS)
+10. [WACV 2025]Pay Attention to Your Neighbours:Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://arxiv.org/pdf/2404.08181?)[[code]](https://github.com/sinahmr/NACLIP)
+11. [ICCV 2025]Category-Specific Selective Feature Enhancement for Long-Tailed Multi-Label Image Classification
+12. [unknown]Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation[[paper]](https://arxiv.org/pdf/2411.15869)[[code]](https://github.com/SuleBai/SC-CLIP)
 
 **转导学习**
 
@@ -132,6 +135,7 @@ Multi-view Observation Condition: a Benchmark[[paper]](https://arxiv.org/pdf/250
 
 2.[CVPR 2025]Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Multi-Modal_Aerial-Ground_Cross-View_Place_Recognition_with_Neural_ODEs_CVPR_2025_paper.pdf)
 
+3.[ICCV 2025]TopicGeo: An Efficient Unified Framework for Geolocation
 
    
 
