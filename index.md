@@ -16,6 +16,10 @@ Visual Prompt Tuning[[paper]](https://arxiv.org/pdf/2504.09990)
 10. [WACV 2025]Pay Attention to Your Neighbours:Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://arxiv.org/pdf/2404.08181?)[[code]](https://github.com/sinahmr/NACLIP)
 11. [ICCV 2025]Category-Specific Selective Feature Enhancement for Long-Tailed Multi-Label Image Classification
 12. [unknown]Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation[[paper]](https://arxiv.org/pdf/2411.15869)[[code]](https://github.com/SuleBai/SC-CLIP)
+13. [ICCV 2025]MambaML: Exploring State Space Models for Multi-Label Image Classification
+14. [ICCV 2025]Category-Specific Selective Feature Enhancement for Long-Tailed Multi-Label Image Classification
+15. [ICCV 2025]More Reliable Pseudo-labels, Better Performance: A Generalized Approach to Single Positive Multi-label Learning
+16. [ICCV 2025]Language-Driven Multi-Label Zero-Shot Learning with Semantic Granularity
 
 **转导学习**
 
