@@ -28,19 +28,20 @@ Visual Prompt Tuning[[paper]](https://arxiv.org/pdf/2504.09990)
 
 **One Stage VPR:**
 1. [ICCV 2025]Cloak: A First Look at Privacy Cloak Against Visual Place Recognition[[paper]]
-2. [WACV 2025]Breaking the Frame:
+2. [ICCV 2025]A Hyperdimensional One Place Signature to Represent Them All: Stackable Descriptors For Visual Place Recognition[[paper]](https://arxiv.org/pdf/2412.06153)[[code]](https://github.com/CMalone-Jupiter/HOPS)
+3. [WACV 2025]Breaking the Frame:
 Visual Place Recognition by Overlap Prediction[[paper]](https://openaccess.thecvf.com/content/WACV2025/papers/Wei_Breaking_the_Frame_Visual_Place_Recognition_by_Overlap_Prediction_WACV_2025_paper.pdf)[[code]](https://github.com/weitong8591/vop)
-3. [ICLR 2025]EFFOVPR: EFFECTIVE FOUNDATION MODEL UTILIZATION FOR VISUAL PLACE RECOGNITION[[paper]](https://openreview.net/forum?id=NSpe8QgsCB)
-4. [ECCV 2024]Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition[[paper]](https://arxiv.org/pdf/2407.02422)[[code]](https://github.com/serizba/cliquemining)
-5. [CVPR 2024]EarthLoc: Astronaut Photography Localization by Indexing Earth from Space[[paper]](https://arxiv.org/pdf/2403.06758)[[code]](https://github.com/gmberton/EarthLoc)
-6. [ECCV 2024]VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2409.19293)[[code]](https://github.com/Ahmedest61/VLAD-BuFF/)
-7. [CVPR 2024]CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2402.19231)[[code]](https://github.com/Lu-Feng/CricaVPR)
-8. [ECCV 2024][Statewide Visual Geolocalization in the Wild][[paper]](https://arxiv.org/pdf/2409.16763)[[code]](https://github.com/fferflo/statewide-visual-geolocalization)
-9. [CVPR 2024]BoQ: A Place is Worth a Bag of Learnable Queries[[paper]](https://arxiv.org/pdf/2405.07364)[[code]](https://github.com/amaralibey/Bag-of-Queries)
-10. [CVPR 2024]Optimal Transport Aggregation for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2311.15937)[[code]](https://github.com/serizba/salad)
-11. [ICCV 2023]EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2308.10832)[[code]](https://github.com/gmberton/EigenPlaces)
-12. [cvpr 2023]Data-efficient Large Scale Place Recognition with Graded Similarity Supervision[[paper]](https://arxiv.org/pdf/2303.11739)
-13. [preprint]HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular
+4. [ICLR 2025]EFFOVPR: EFFECTIVE FOUNDATION MODEL UTILIZATION FOR VISUAL PLACE RECOGNITION[[paper]](https://openreview.net/forum?id=NSpe8QgsCB)
+5. [ECCV 2024]Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition[[paper]](https://arxiv.org/pdf/2407.02422)[[code]](https://github.com/serizba/cliquemining)
+6. [CVPR 2024]EarthLoc: Astronaut Photography Localization by Indexing Earth from Space[[paper]](https://arxiv.org/pdf/2403.06758)[[code]](https://github.com/gmberton/EarthLoc)
+7. [ECCV 2024]VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2409.19293)[[code]](https://github.com/Ahmedest61/VLAD-BuFF/)
+8. [CVPR 2024]CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2402.19231)[[code]](https://github.com/Lu-Feng/CricaVPR)
+9. [ECCV 2024][Statewide Visual Geolocalization in the Wild][[paper]](https://arxiv.org/pdf/2409.16763)[[code]](https://github.com/fferflo/statewide-visual-geolocalization)
+10. [CVPR 2024]BoQ: A Place is Worth a Bag of Learnable Queries[[paper]](https://arxiv.org/pdf/2405.07364)[[code]](https://github.com/amaralibey/Bag-of-Queries)
+11. [CVPR 2024]Optimal Transport Aggregation for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2311.15937)[[code]](https://github.com/serizba/salad)
+12. [ICCV 2023]EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2308.10832)[[code]](https://github.com/gmberton/EigenPlaces)
+13. [cvpr 2023]Data-efficient Large Scale Place Recognition with Graded Similarity Supervision[[paper]](https://arxiv.org/pdf/2303.11739)
+14. [preprint]HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular
 Visual Place Recognition[[paper]](https://arxiv.org/pdf/2506.04764)[[code]](https://github.com/suhan-woo/HypeVPR)
 14.SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition[[paper]](https://arxiv.org/pdf/2502.16601)[[code]](https://github.com/Lu-Feng/SelaVPR)
 15. [WACV 2023]MixVPR: Feature Mixing for Visual Place Recognition[[paper]](https://arxiv.org/pdf/2303.02190)[[code]](https://github.com/amaralibey/MixVPR)
@@ -93,6 +94,10 @@ Multi-view Observation Condition: a Benchmark[[paper]](https://arxiv.org/pdf/250
 3.[ICCV 2025]TopicGeo: An Efficient Unified Framework for Geolocation
 
 4.[ICCV 2025]MMGeo: Multimodal Compositional Geo-Localization for UAVs
+
+5.[Preprint]WeatherPrompt: Multi-modality Representation
+Learning for All-Weather Drone Visual
+Geo-Localization[[paper]](https://www.arxiv.org/pdf/2508.09560)
 
    
 
