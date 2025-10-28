@@ -1,8 +1,17 @@
 # Here are some papers on  Visual Place Recognition:
 **老师提供的写作参考：**
-1.A HARD-TO-BEAT BASELINE FOR TRAINING-FREE CLIP-BASED ADAPTATION[[paper]](https://arxiv.org/pdf/2402.04087)
 
+1.A HARD-TO-BEAT BASELINE FOR TRAINING-FREE CLIP-BASED ADAPTATION[[paper]](https://arxiv.org/pdf/2402.04087)
 2.Discriminant analysis by Gaussian mixtures[[paper]](https://watermark02.silverchair.com/jrsssb_58_1_155.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA2kwggNlBgkqhkiG9w0BBwagggNWMIIDUgIBADCCA0sGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMle_7yHlRxGc6ithuAgEQgIIDHP0ZFQa0u7DsAJSHHy3cnKtnTniuXae5NlIFUX7pxppfBhXVuXJHr-cqhtr8zizGlNGb5sZRpU5vZz5YDuxq5qmEWib2mZ33tl2Z3s_2FEtHsbRko0di7_XNSVJxr-WvflZm3TofmiUuBJKsWarcZAWuPf35eBAy0pbb2Cmu0pneeK5LSQHI2D6DXZdH-V2fQ0O5yjwJaRPlsNFLvRy7D_U0SoiAN7eyInB6HSkEawi22BrY_AQQmnJa_I_JH44M35GXR3z1pq9DQ2krKXU2XLcasFPGQePBoHHwhbU5rMBGkg2I1eYKEk6-YBjEqdyXVLmT_Y4L1us_FCw00lYS7ulIGYdM9BgJpd-31F4necLMvNCYa8H1L4xJvjMoF2ZkZO00gyoQbgWs-MuY0fh5WEBeTwANK4dLUfR3OPimlPQjcBcRQv6KqfD32io1LMkkUEt5FxHOoN7inBBQbBn04k7F41yqgcfzTrB6KFnQWq43Is6MeeyMoujbMVZ93KCuz5CWmDHUB3tDd5erBZHzD1vntoJO6rcK3JxAG028dNcSQl0chZQgDeCTAAEAX1wdjbhJXsZJWMjhjEzhud0h4f4Mf8_15B5Gql-RQhYNj8xLQebcsgBf2YNJI0gTrdiUpNOCe0xu52X4Z1A8vziIMup79b6iUAavWaBsRpPZD7p2njakmR3gfY4hbi6EhgU5AJACl8Tc46hQXYHH8gqglPYp4qkmZMN8QKoCnPxYA3edIOTPt6diKAkZawMLhRSe_KQQdt5_PaQejJ3rYctOhVD-bfXp1LZwlotPgpnIOV7XykXqPEbcHuFN2vLPy1DBFhquq_10gi5FlRwhusgnLip54rJs3i5KMxxRK9acau_9A-LXbZxC5jXYaDJpftwbXzlGU37ezv4pNpX38M5Rn1GWuaj6NZELynWt5R_gAG6x7PiaiV3Aevs3o_DF-9vZNntUAFIF84MiOysr6spbr4Tn5dQStzKRoWYHLZV1H90XY6LRO3wDr7DYWNsjXQmd8TE22QSr8NW3NqgxQixG7MPQI6V3TVMk9vm6MnM)
+3.Disentangling CLIP for Multi-Object Perception[[paper]](https://arxiv.org/pdf/2502.02977v3)
+4.Talking to DINO: Bridging Self-Supervised Vision Backbones with Language
+for Open-Vocabulary Segmentation[[paper]](https://arxiv.org/pdf/2411.19331)
+5.[under review ICLR 2026]DE-HALLUCINATING CLIP EMBEDDINGS TO IMPROVE
+BRAIN-VISION MAPPING[[paper]](https://openreview.net/attachment?id=oKHPJ0GTLG&name=pdf)
+
+**可能对多标签图像分类有用：**
+1. [CVPR 2025]Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval[[paper]](https://arxiv.org/pdf/2504.01348)
+2. [preprint]ONE PATCH TO CAPTION THEM ALL: A UNIFIED ZEROSHOT CAPTIONING FRAMEWORK[[paper]](https://arxiv.org/pdf/2510.02898)[[code]](https://github.com/Ruggero1912/Patch-ioner)
 
 **多标签图像分类：**
 1. [ICCV 2023]PatchCT: Aligning Patch Set and Label Set with Conditional Transport
@@ -25,6 +34,8 @@ Visual Prompt Tuning[[paper]](https://arxiv.org/pdf/2504.09990)
 14. [ICCV 2025]Category-Specific Selective Feature Enhancement for Long-Tailed Multi-Label Image Classification
 15. [ICCV 2025]More Reliable Pseudo-labels, Better Performance: A Generalized Approach to Single Positive Multi-label Learning
 16. [ICCV 2025]Language-Driven Multi-Label Zero-Shot Learning with Semantic Granularity
+17. [under review ICLR 2026]Unlocking the Power of Co-Occurrence in CLIP: A DualPrompt-Driven Method for Training-Free Zero-Shot Multi-Label Classification[[paper]](https://openreview.net/forum?id=QGXVZ0OPLy)
+18. [under review ICLR 2026]EFFICIENTLY DISENTANGLING CLIP FOR MULTIOBJECT PERCEPTION[[paper]](https://openreview.net/attachment?id=7BZuePfFci&name=pdf)
 
 **转导学习**
 
