@@ -12,6 +12,7 @@ for Open-Vocabulary Segmentation[[paper]](https://arxiv.org/pdf/2411.19331)
 
 5. [under review ICLR 2026]DE-HALLUCINATING CLIP EMBEDDINGS TO IMPROVE
 BRAIN-VISION MAPPING[[paper]](https://openreview.net/attachment?id=oKHPJ0GTLG&name=pdf)
+6. Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment[[paper]](https://arxiv.org/pdf/2508.15568)
 
 **可能对多标签图像分类有用：**
 1. [CVPR 2025]Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval[[paper]](https://arxiv.org/pdf/2504.01348)
