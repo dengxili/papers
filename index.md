@@ -1,3 +1,12 @@
+**语义分割：**
+1.[iccv 2025]FLOSS:FreeLunchinOpen-vocabularySemanticSegmentation[[paper]](https://arxiv.org/pdf/2504.10487)
+2.[iccv 2025]DenseVLM: A Retrieval and Decoupled Alignment Framework
+for Open-Vocabulary Dense Prediction[[paper]](https://arxiv.org/pdf/2412.06244)
+3.[iccv 2025]Feature Purification Matters: Suppressing Outlier Propagation for
+Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_Feature_Purification_Matters_Suppressing_Outlier_Propagation_for_Training-Free_Open-Vocabulary_Semantic_ICCV_2025_paper.pdf)
+
+
+
 # Here are some papers on  Visual Place Recognition:
 **老师提供的写作参考：**
 
