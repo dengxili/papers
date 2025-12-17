@@ -8,6 +8,8 @@ for Open-Vocabulary Dense Prediction[[paper]](https://arxiv.org/pdf/2412.06244)
 3.[iccv 2025]Feature Purification Matters: Suppressing Outlier Propagation for
 Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_Feature_Purification_Matters_Suppressing_Outlier_Propagation_for_Training-Free_Open-Vocabulary_Semantic_ICCV_2025_paper.pdf)
 
+4.[iccv 2025]Training-Free Class Purification for Open-Vocabulary Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Training-Free_Class_Purification_for_Open-Vocabulary_Semantic_Segmentation_ICCV_2025_paper.pdf)
+
 
 
 # Here are some papers on  Visual Place Recognition:
