@@ -1,4 +1,5 @@
 **语义分割：**
+
 1.[iccv 2025]FLOSS:FreeLunchinOpen-vocabularySemanticSegmentation[[paper]](https://arxiv.org/pdf/2504.10487)
 
 2.[iccv 2025]DenseVLM: A Retrieval and Decoupled Alignment Framework
