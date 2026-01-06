@@ -1,3 +1,28 @@
+**弱监督语义分割：**
+1.[iccv 2025]Class Token as Proxy: Optimal Transport-assisted Proxy Learning for Weakly
+Supervised Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Class_Token_as_Proxy_Optimal_Transport-assisted_Proxy_Learning_for_Weakly_ICCV_2025_paper.pdf)
+2.[iccv 2025]Know Your Attention Maps: Class-specific Token Masking for
+Weakly Supervised Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Hanna_Know_Your_Attention_Maps_Class-specific_Token_Masking_for_Weakly_Supervised_ICCV_2025_paper.pdf)
+3.[iccv 2025]Bias-Resilient Weakly Supervised Semantic Segmentation Using Normalizing
+Flows[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Qiu_Bias-Resilient_Weakly_Supervised_Semantic_Segmentation_Using_Normalizing_Flows_ICCV_2025_paper.pdf)
+4.[cvpr 2025]Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic
+Segmentation[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Exploring_CLIPs_Dense_Knowledge_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
+5.[cvpr 2025]FFR: Frequency Feature Rectification for Weakly Supervised Semantic
+Segmentation[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_FFR_Frequency_Feature_Rectification_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
+6.[cvpr 2025]POT: Prototypical Optimal Transport for Weakly Supervised Semantic
+Segmentation[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
+7.[cvpr 2025]Multi-Label Prototype Visual Spatial Search for Weakly Supervised
+Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
+8.[cvpr 2025]Weakly Supervised Semantic Segmentation via Progressive Confidence Region
+Expansion[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Weakly_Supervised_Semantic_Segmentation_via_Progressive_Confidence_Region_Expansion_CVPR_2025_paper.pdf)
+
+
+
+
+
+
+
+
 **语义分割：**
 
 1.[iccv 2025]FLOSS:FreeLunchinOpen-vocabularySemanticSegmentation[[paper]](https://arxiv.org/pdf/2504.10487)
