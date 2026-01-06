@@ -4,13 +4,14 @@
 Supervised Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Class_Token_as_Proxy_Optimal_Transport-assisted_Proxy_Learning_for_Weakly_ICCV_2025_paper.pdf)
 
 2.[iccv 2025]Know Your Attention Maps: Class-specific Token Masking for
-Weakly Supervised Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Hanna_Know_Your_Attention_Maps_Class-specific_Token_Masking_for_Weakly_Supervised_ICCV_2025_paper.pdf)
+Weakly Supervised Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Hanna_Know_Your_Attention_Maps_Class-specific_Token_Masking_for_Weakly_Supervised_ICCV_2025_paper.pdf)[[code]](https://github.com/HSG-AIML/TokenMasking-WSSS)
 
 3.[iccv 2025]Bias-Resilient Weakly Supervised Semantic Segmentation Using Normalizing
 Flows[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Qiu_Bias-Resilient_Weakly_Supervised_Semantic_Segmentation_Using_Normalizing_Flows_ICCV_2025_paper.pdf)
 
 4.[cvpr 2025]Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic
-Segmentation[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Exploring_CLIPs_Dense_Knowledge_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
+Segmentation[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Exploring_CLIPs_Dense_Knowledge_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)[[code]](https://github.com/zwyang6/ExCEL)
+
 
 5.[cvpr 2025]FFR: Frequency Feature Rectification for Weakly Supervised Semantic
 Segmentation[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_FFR_Frequency_Feature_Rectification_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
