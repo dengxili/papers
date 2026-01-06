@@ -25,6 +25,13 @@ Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/CVPR2025/pa
 8.[cvpr 2025]Weakly Supervised Semantic Segmentation via Progressive Confidence Region
 Expansion[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Weakly_Supervised_Semantic_Segmentation_via_Progressive_Confidence_Region_Expansion_CVPR_2025_paper.pdf)
 
+9.[cvpr 2024]Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Frozen_CLIP_A_Strong_Backbone_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf)[[code]](https://github.com/zbf1991/WeCLIP)
+
+10.[TPAMI2025]Frozen CLIP-DINO: a Strong Backbone for Weakly Supervised Semantic Segmentation[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10891864)
+
+11.[AAAI 2025]Toward Modality Gap: Vision Prototype Learning for Weakly-supervised Semantic Segmentation with CLIP[[paper]](https://arxiv.org/pdf/2412.19650)
+
+12.[ECCV 2024]DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation[[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08737.pdf)
 
 
 
