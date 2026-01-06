@@ -1,4 +1,5 @@
 **弱监督语义分割：**
+
 1.[iccv 2025]Class Token as Proxy: Optimal Transport-assisted Proxy Learning for Weakly
 Supervised Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Class_Token_as_Proxy_Optimal_Transport-assisted_Proxy_Learning_for_Weakly_ICCV_2025_paper.pdf)
 
