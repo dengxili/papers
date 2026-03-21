@@ -1,3 +1,10 @@
+**可能有用的分割：**
+1.[iccv 2025]Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation[[paper]](https://sc.panda985.com/scholar?hl=zh-cn&q=Plug-in+Feedback+Self-adaptive+Attention+in+CLIP+for+Training-free+Open-Vocabulary+Segmentation)[[code]](https://github.com/chi-chi-zx/FSA)
+
+2.[cvpr 2026]Exploring the Underwater World Segmentation without Extra Training [[paper]](https://sc.panda985.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Exploring+the+Underwater+World+Segmentation+without+Extra+Training&btnG=)[[code]](https://github.com/LiBingyu01/Earth2Ocean)
+
+3.[cvpr 2026]：V2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence[[paper]](https://sc.panda985.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=V2-SAM%3A+Marrying+SAM2+with+Multi-Prompt+Experts+for+Cross-View+Object+Correspondence&btnG=)[[code]](https://github.com/jaychempan/V2-SAM)
+
 **弱监督语义分割：**
 
 1.[iccv 2025]Class Token as Proxy: Optimal Transport-assisted Proxy Learning for Weakly
