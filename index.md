@@ -4,7 +4,9 @@
 
 2.[cvpr 2026]Exploring the Underwater World Segmentation without Extra Training [[paper]](https://sc.panda985.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Exploring+the+Underwater+World+Segmentation+without+Extra+Training&btnG=)[[code]](https://github.com/LiBingyu01/Earth2Ocean)
 
-3.[cvpr 2026]：V2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence[[paper]](https://sc.panda985.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=V2-SAM%3A+Marrying+SAM2+with+Multi-Prompt+Experts+for+Cross-View+Object+Correspondence&btnG=)[[code]](https://github.com/jaychempan/V2-SAM)
+3.[cvpr 2026]V2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence[[paper]](https://sc.panda985.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=V2-SAM%3A+Marrying+SAM2+with+Multi-Prompt+Experts+for+Cross-View+Object+Correspondence&btnG=)[[code]](https://github.com/jaychempan/V2-SAM)
+
+4.[cvpr 2026]PE3R: Perception-Efficient 3D Reconstruction[[paper]](https://sc.panda985.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=PE3R%3A+Perception-Efficient+3D+Reconstruction&btnG=)[[code]](https://github.com/hujiecpp/PE3R)
 
 **弱监督语义分割：**
 
