@@ -6,7 +6,9 @@
 
 3.[cvpr 2026]V2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence[[paper]](https://sc.panda985.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=V2-SAM%3A+Marrying+SAM2+with+Multi-Prompt+Experts+for+Cross-View+Object+Correspondence&btnG=)[[code]](https://github.com/jaychempan/V2-SAM)
 
-4.[cvpr 2026]PE3R: Perception-Efficient 3D Reconstruction[[paper]](https://sc.panda985.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=PE3R%3A+Perception-Efficient+3D+Reconstruction&btnG=)[[code]](https://github.com/hujiecpp/PE3R)
+4.[cvpr 2026]MARIS: Marine Open-Vocabulary Instance Segmentation with Geometric Enhancement and Semantic Alignment[[paper]](https://sc.panda985.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=MARIS%3A+Marine+Open-Vocabulary+Instance+Segmentation+with+Geometric+Enhancement+and+Semantic+Alignment&btnG=)[[code]](https://github.com/LiBingyu01/MARIS)
+
+5.[cvpr 2026]PE3R: Perception-Efficient 3D Reconstruction[[paper]](https://sc.panda985.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=PE3R%3A+Perception-Efficient+3D+Reconstruction&btnG=)[[code]](https://github.com/hujiecpp/PE3R)
 
 **弱监督语义分割：**
 
