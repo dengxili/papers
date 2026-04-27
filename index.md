@@ -71,6 +71,8 @@ Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://openaccess.
 
 8.[aaai 2026]Target Refocusing via Attention Redistribution for Open-Vocabulary Semantic Segmentation: An Explainability Perspective[[paper]](https://arxiv.org/pdf/2511.16170)[[code]](https://github.com/liblacklucy/RF-CLIP)
 
+7.[cvpr 2026]OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://arxiv.org/pdf/2511.16170)[[code]](https://github.com/atw617/OV-Stitcher)
+
 
 
 # Here are some papers on  Visual Place Recognition:
