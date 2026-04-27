@@ -63,6 +63,8 @@ Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://openaccess.
 
 4.[iccv 2025]Training-Free Class Purification for Open-Vocabulary Semantic Segmentation[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Training-Free_Class_Purification_for_Open-Vocabulary_Semantic_Segmentation_ICCV_2025_paper.pdf)
 
+5.[cvpr 2026]PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://arxiv.org/pdf/2603.21528)[[code]](https://github.com/PGSmall/PEARL)
+
 
 
 # Here are some papers on  Visual Place Recognition:
