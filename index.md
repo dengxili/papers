@@ -65,7 +65,11 @@ Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://openaccess.
 
 5.[cvpr 2026]PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://arxiv.org/pdf/2603.21528)[[code]](https://github.com/PGSmall/PEARL)
 
-6.[cvpr 2026]Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://arxiv.org/pdf/2604.07723)[[code]]()
+6.[cvpr 2026]Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://arxiv.org/pdf/2604.07723)[[code]](https://github.com/liblacklucy/DSLO)
+
+7.[cvpr 2026]Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation[[paper]](https://arxiv.org/pdf/2603.23030)[[code]](https://github.com/2btlFe/GLA-CLIP)
+
+8.[aaai 2026]Target Refocusing via Attention Redistribution for Open-Vocabulary Semantic Segmentation: An Explainability Perspective[[paper]](https://arxiv.org/pdf/2511.16170)[[code]](https://github.com/liblacklucy/RF-CLIP)
 
 
 
