@@ -51,7 +51,7 @@ Expansion[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Weak
 
 
 
-**语义分割：**
+**开放词汇语义分割：**
 
 1.[iccv 2025]FLOSS:FreeLunchinOpen-vocabularySemanticSegmentation[[paper]](https://arxiv.org/pdf/2504.10487)
 
