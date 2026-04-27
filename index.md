@@ -65,6 +65,8 @@ Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://openaccess.
 
 5.[cvpr 2026]PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://arxiv.org/pdf/2603.21528)[[code]](https://github.com/PGSmall/PEARL)
 
+6.[cvpr 2026]Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation[[paper]](https://arxiv.org/pdf/2604.07723)[[code]]()
+
 
 
 # Here are some papers on  Visual Place Recognition:
