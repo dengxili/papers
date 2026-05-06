@@ -2,7 +2,7 @@
 
 1.[iccv 2025]Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation[[paper]](https://sc.panda985.com/scholar?hl=zh-cn&q=Plug-in+Feedback+Self-adaptive+Attention+in+CLIP+for+Training-free+Open-Vocabulary+Segmentation)[[code]](https://github.com/chi-chi-zx/FSA)
 
-2.[cvpr 2026]Exploring the Underwater World Segmentation without Extra Training [[paper]](https://arxiv.org/pdf/2511.07923))[[code]](https://github.com/LiBingyu01/Earth2Ocean)
+2.[cvpr 2026]Exploring the Underwater World Segmentation without Extra Training [[paper]](https://arxiv.org/pdf/2511.07923)[[code]](https://github.com/LiBingyu01/Earth2Ocean)
 
 3.[cvpr 2026]V2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence[[paper]](https://sc.panda985.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=V2-SAM%3A+Marrying+SAM2+with+Multi-Prompt+Experts+for+Cross-View+Object+Correspondence&btnG=)[[code]](https://github.com/jaychempan/V2-SAM)
 
