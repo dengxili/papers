@@ -1,6 +1,6 @@
 **可能有用的分割：**
 
-1.[iccv 2025]Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation[[paper]](https://sc.panda985.com/scholar?hl=zh-cn&q=Plug-in+Feedback+Self-adaptive+Attention+in+CLIP+for+Training-free+Open-Vocabulary+Segmentation)[[code]](https://github.com/chi-chi-zx/FSA)
+1.[iccv 2025]Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation[[paper]](https://arxiv.org/pdf/2508.20265)[[code]](https://github.com/chi-chi-zx/FSA)
 
 2.[cvpr 2026]Exploring the Underwater World Segmentation without Extra Training [[paper]](https://arxiv.org/pdf/2511.07923)[[code]](https://github.com/LiBingyu01/Earth2Ocean)
 
